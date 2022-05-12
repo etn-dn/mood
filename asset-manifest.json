@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mood/static/css/main.e6c13ad2.css",
+    "main.js": "/mood/static/js/main.80e7d9e4.js",
+    "index.html": "/mood/index.html",
+    "main.e6c13ad2.css.map": "/mood/static/css/main.e6c13ad2.css.map",
+    "main.80e7d9e4.js.map": "/mood/static/js/main.80e7d9e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.80e7d9e4.js"
+  ]
+}
