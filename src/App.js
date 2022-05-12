@@ -10,8 +10,11 @@ import moods from './moods'
 const Home = () => {
 	return (
 		<Box pt='20%'>
-			<Center top='200px'>
-				<Heading>Advice for the day</Heading>
+			<Center>
+				<Heading>Advice for</Heading>
+			</Center>
+			<Center>
+				<Heading>the day</Heading>
 			</Center>
 			<Center pt='10%'>
 				<Text fontSize='xl'>pick your mood</Text>
